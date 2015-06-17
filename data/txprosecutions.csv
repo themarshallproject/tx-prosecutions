@@ -1,0 +1,429 @@
+case_num,case_open_date,incident_date,Person,Person_last,Person_first,employee_type,disposition,Violation_1_clean,violation_type,Counts,Violation_2,Unit_name,Unit_code,Operator,Gender,Facility_Type,Region,County,sentenced,sentence_cat
+2001-1266,,2001-07-26 00:00:00,"MCSHAN, LONZO",MCSHAN, LONZO,Correctional/Parole Officer,Not Guilty,PC 22.011,Sexual assault,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,,
+2001-1962,,2001-11-09 00:00:00,"DRAKE, LEROY",DRAKE, LEROY,Correctional/Parole Officer,Not Guilty,PC 22.011,Sexual assault,1.0,,,ZO,,,,,,,
+2002-0102,,2002-01-11 00:00:00,"MCSHAN, LONZO",MCSHAN, LONZO,Correctional/Parole Officer,Not Guilty,PC 22.011,Sexual assault,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2002-2399,,2002-11-22 00:00:00,"RODRIGUEZ, NICHOLAS",RODRIGUEZ, NICHOLAS,Correctional/Parole Officer,Sentenced,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,5yrs def.,Deferred
+2004-2069,,2004-09-02 00:00:00,"HOLT, BILLY W.",HOLT, BILLY W.,Correctional/Parole Officer,Dismissed,PC 22.011,Sexual assault,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,Dismissed,Dismissed
+2004-2069,,2004-09-02 00:00:00,"WASHINGTON, RAYMOND",WASHINGTON, RAYMOND,Correctional/Parole Officer,Sentenced,PC 22.011,Sexual assault,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,6yrs def,Deferred
+2004-2712,,2004-11-29 00:00:00,"MCCLURE, LARRY B.",MCCLURE, LARRY B.,Correctional/Parole Officer,Sentenced,PC 22.011,Sexual assault,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,"5yrs def, $2000 fine",Deferred
+2005-1554,,2005-07-25 00:00:00,"ALEXANDER JR, ALLEN",ALEXANDER JR, ALLEN,Correctional/Parole Officer,Sentenced,PC 22.011,Sexual assault,2.0,PC 39.04S,Goree,GR,CID,Male,Prison,I,Walker,"PG: 3 years deferred, $1000 fine, $223 court costs, $50 crime stoppers, $60 per month probation fee, 200 hours community service, will not file OG case 05-1553",Deferred
+2006-0770,,2006-04-11 00:00:00,"GIL, ROBERT",GIL, ROBERT,Correctional/Parole Officer,Sentenced,PC 22.011,Sexual assault,1.0,,Hughes,AH,CID,Male,Prison,VI,Coryell,"Reduced to VCR, 2yrs def, State Jail, $2000fine",Deferred
+2002-1055,,2002-05-17 00:00:00,"PEEK, BILLIE J.",PEEK, BILLIE J.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hightower,HI,CID,Male,Prison,III,Liberty,"2yrs def., 100hrs CS",Deferred
+2003-0042,,2003-01-06 00:00:00,"HERNANDEZ, DORA",HERNANDEZ, DORA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Kyle,KY,MTC,Male,Private Prison,Private,Hays,deferred 3 Years with Community Service of 120 Hours ,Deferred
+2003-0065,,2003-01-08 00:00:00,"ROGERS, HARMONY",ROGERS, HARMONY,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"2yrs def., $300fine",Deferred
+2003-0214,,2003-01-29 00:00:00,"KEY, CHERYL",KEY, CHERYL,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,PG; 3yrs def.,Deferred
+2003-0306,,2003-02-13 00:00:00,"MCCANN, CAROL E.",MCCANN, CAROL E.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stringfellow,R2,CID,Male,Prison,III,Brazoria,"3yrs def., $200fine",Deferred
+2003-0488,,2003-03-11 00:00:00,"LARSEN, DAVID M.",LARSEN, DAVID M.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"4yrs def., $1000fine, $198 CC",Deferred
+2003-0635,,2003-04-01 00:00:00,"DAVIS, NICOLE",DAVIS, NICOLE,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Connally,CY,CID,Male,Prison,IV,Karnes,"$4000fine, probation, 30days def.",Deferred
+2003-0708,,2003-04-14 00:00:00,"HENRY, ROSE",HENRY, ROSE,Correctional/Parole Officer,Not Guilty,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,,
+2003-0713,,2003-04-14 00:00:00,"MARTINEZ, MANUEL",MARTINEZ, MANUEL,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hughes,AH,CID,Male,Prison,VI,Coryell,"$1250fine, 2yrs def.",Deferred
+2003-0792,,2003-04-24 00:00:00,"ROBINSON, JAMIE",ROBINSON, JAMIE,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,"5yrs def., fine, CS",Deferred
+2003-0835,,2003-04-30 00:00:00,"DUNBAR, DAQUISHA L.",DUNBAR, DAQUISHA L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,1yr pretrial diversion,Diversion
+2003-1148,,2003-06-16 00:00:00,"PORTALES, JASIDRA",PORTALES, JASIDRA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Ferguson,FE,CID,Male,Prison,I,Madison,"2yrs def., $750fine",Deferred
+2004-0372,,2004-02-17 00:00:00,"HOWELL, CHRISTY L.",HOWELL, CHRISTY L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,"5yrs def., $500fine, 250hrs CS",Deferred
+2004-0588,,2004-03-12 00:00:00,"NICHOLS, GARY L.",NICHOLS, GARY L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,"5yrs def., 30days jail",Deferred
+2004-1083,,2004-05-05 00:00:00,"FISH, LEAFAH",FISH, LEAFAH,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Wynne,WY,CID,Male,Prison,I,Walker,"3yrs def., $300fine, 120hrs CS",Deferred
+2004-1582,,2004-07-02 00:00:00,"YORK, CATHRINE L.",YORK, CATHRINE L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,5yrs def.,Deferred
+2004-1755,,2004-07-27 00:00:00,"LAKEY, WENDY",LAKEY, WENDY,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Scott,RV,CID,Male,Prison,III,Brazoria,"5yrs def., $1500fine, 160hrs CS",Deferred
+2004-1373,,2004-06-10 00:00:00,"STONEHAM, ALVIN JR.",STONEHAM, ALVIN JR.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,4 years deferred adjudication; in 2010 he completed all his conditions and charges were dismissed,Deferred
+2004-2090,,2004-09-07 00:00:00,"WASHINGTON, RAYMOND",WASHINGTON, RAYMOND,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,"6yrs def., $600fine",Deferred
+2004-2200,,2004-09-20 00:00:00,"BARGARA, IDA M.",BARGARA, IDA M.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Connally,CY,CID,Male,Prison,IV,Karnes,4yrs def.,Deferred
+2004-2458,,2004-10-25 00:00:00,"TOUSSAINT, NAKISTHA",TOUSSAINT, NAKISTHA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,H7,,,,,,Unknown,Unknown
+2004-2557,,2004-11-04 00:00:00,"MCDOWELL, VALERIA",MCDOWELL, VALERIA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Central,C,CID,Male,Prison,III,Fort Bend,"3yrs def., $700fine",Deferred
+2004-2830,,2004-12-15 00:00:00,"BURNS, LINDA",BURNS, LINDA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,2yrs def.,Deferred
+2004-2929,,2004-12-30 00:00:00,"SIMPSON, LORA JEAN",SIMPSON, LORA JEAN,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,McConnell,ML,CID,Male,Prison,IV,Bee,"3yrs def., $1500fine",Deferred
+2005-0005,,2005-01-03 00:00:00,"GAMBRELL, DELICIA",GAMBRELL, DELICIA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Wynne,WY,CID,Male,Prison,I,Walker,2yrs def.,Deferred
+2005-0179,,2005-01-24 00:00:00,"SANCHEZ, SUSAN",SANCHEZ, SUSAN,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Robertson,RB,CID,Male,Prison,VI,Jones,"4yrs def., $1000restitution",Deferred
+2002-0142,,2002-01-17 00:00:00,"WVALLE, SALLIE A.",WVALLE, SALLIE A.,Correctional/Parole Officer,Sentenced,PC 39.04,Improper Sexual Activity with Person in Custody,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,"2yrs def., $300fine, 160hrs CS",Deferred
+2005-0490,,2005-02-28 00:00:00,"HALE, STACY",HALE, STACY,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,2yrs def.,Deferred
+2005-0666,,2005-03-21 00:00:00,"FORD, KENNETH L.",FORD, KENNETH L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,3yrs def.,Deferred
+2005-0822,,2005-04-06 00:00:00,"OWEN, MICHELE",OWEN, MICHELE,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Estes,VS,MTC,Male,Private Prison,Private,Johnson,5yrs def.,Deferred
+2005-0961,,2005-04-19 00:00:00,"JORDAN, CHRIS",JORDAN, CHRIS,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,"1yr confinement, 5yrs probation",Jail
+2005-1163,,2005-05-12 00:00:00,"JORDAN, DAVID R",JORDAN, DAVID R,Correctional/Parole Officer,Sentenced,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,PC 37.03,Lewis,GL,CID,Male,Prison,I,Tyler,"2yrs def., $250fine",Deferred
+2005-1306,,2005-06-06 00:00:00,"SANDIFER, RHONDA",SANDIFER, RHONDA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,3yrs def.,Deferred
+2005-1163,,2005-05-12 00:00:00,"DICKENS, CHRISTOPHER",DICKENS, CHRISTOPHER,Correctional/Parole Officer,Sentenced,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,PC 37.03,Lewis,GL,CID,Male,Prison,I,Tyler,Unknown,Unknown
+2005-1625,,2005-08-08 00:00:00,"WINSTON, JAMES",WINSTON, JAMES,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hospital Galveston,HG,CID,Co-Gender,Medical,III,Galveston,This case had to do with someone under 17. It was dismissed,Dismissed
+2005-1710,,2005-08-19 00:00:00,"PINT, AMBER",PINT, AMBER,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Garza East,NI,CID,Male,Transfer Facility,IV,Bee,"3yrs def., $1500fine",Deferred
+2005-1991,,2005-10-06 00:00:00,"HOOPER, SABRINA",HOOPER, SABRINA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 38.111,Allred,JA,CID,Male,Prison,V,Wichita,"5yrs def., $1000fine",Deferred
+2005-1094,,2005-05-04 00:00:00,"SMITH, TRAVIS",SMITH, TRAVIS,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,1yr def.,Deferred
+2005-2095,,2005-10-24 00:00:00,"CAVAZOS, CYNTHIA",CAVAZOS, CYNTHIA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Willacy County,WI,CCA,Male,Private State Jail,Private,Willacy,"3yrs probation, $2000fine",Probation
+2006-0126,,2006-01-17 00:00:00,"GRIGGS, JAMIE N.",GRIGGS, JAMIE N.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 38.11D,Beto,B,CID,Male,Private State jail,Private,Williamson,5yrs def.,Deferred
+2006-0817,,2006-04-18 00:00:00,"BOOKER, MARVIN JR.",BOOKER, MARVIN JR.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,5 years deferred adjudication; he completed it in 2012 and the charges were dismissed ,Deferred
+2006-1018,,2006-05-04 00:00:00,"ODUM, RODERICK",ODUM, RODERICK,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,East Texas,XQ,MTC,Co-Gender,Private Multi-Use,Private,Rusk,no case,No Case
+2006-1240,,2006-06-07 00:00:00,"STRAUGHTER, EDDIE",STRAUGHTER, EDDIE,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Wynne,WY,CID,Male,Prison,I,Walker,"3yrs def., 3yrs probation, $500fine",Deferred
+2006-1324,,2006-06-23 00:00:00,"BATTISE, ASHLEY",BATTISE, ASHLEY,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 38.11T,Lewis,GL,CID,Male,Prison,I,Tyler,"5yrs def., $2500",Deferred
+2006-1353,,2006-06-27 00:00:00,"JONES, BLAKE",JONES, BLAKE,Correctional/Parole Officer,Sentenced,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"1500 fine, $306 CC, 40hrs CS, 1yr jail w/ 6months probation, $50 Crime Stoppers fee, $45probation fee",Jail
+2006-1630,,2006-08-14 00:00:00,"BOOTH, MARCUS",BOOTH, MARCUS,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,1yr state jail,Jail
+2006-1755,,2006-08-28 00:00:00,"GERRISH, MALCOLM E.",GERRISH, MALCOLM E.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Plane / Santa Maria Baby Bonding,LJ,CID,Female,State Jail,III,Liberty,"4yrs def., $1000fine, 120hrs CS",Deferred
+2006-1773,,2006-08-29 00:00:00,"WHEELER, SUSAN T.",WHEELER, SUSAN T.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,"Moore, B.",BM,MTC,Male,Private Prison,Private,Rusk,8 months de.,Deferred
+2006-1832,,2006-09-08 00:00:00,"WILLIAMS, JENNIFER",WILLIAMS, JENNIFER,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,"1yr def., $500fine",Deferred
+2006-1937,,2006-09-21 00:00:00,"DUNCAN, MICHELLE D.",DUNCAN, MICHELLE D.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 38.11T,Dalhart,DH,CID,Male,Prison,V,Hartley,3 years deferred adjudication,Deferred
+2006-2055,,2006-10-05 00:00:00,"WATTS, LACEY",WATTS, LACEY,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Newton Co.,XH,,,,,Newton,"2yrs TDCJ, $1000fine, $241 CC",Jail
+2006-1353,,2006-06-27 00:00:00,"WINZENRIED, DAX  A.",WINZENRIED, DAX  A.,Correctional/Parole Officer,Sentenced,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,1yr restrictive pretrial agreement,Deferred
+2006-2129,,2006-10-16 00:00:00,"WINSTON, JAMES",WINSTON, JAMES,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,This case had to do with someone under 17. It was dismissed (same as noted on the entry above),Dismissed
+2006-2200,,2006-10-24 00:00:00,"LUELLEN, MELISSA",LUELLEN, MELISSA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"5yrs def., 300hrs CS, $2000fine, 24CC",Deferred
+2006-2340,,2006-11-08 00:00:00,"BANKS, LEONARD W.",BANKS, LEONARD W.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Plane / Santa Maria Baby Bonding,LJ,CID,Female,State Jail,III,Liberty,"1yr def., $500fine, CC, 80hrs CS",Deferred
+2006-2370,,2006-11-13 00:00:00,"WATKINS, PENNY J.",WATKINS, PENNY J.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,"4yrs def., $1500fine, 120hrs CS",Deferred
+2006-2374,,2006-11-13 00:00:00,"CASTELLANOS, LUCAS",CASTELLANOS, LUCAS,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,"Reduced to attempt Sexual Assault, 12months def., $4000fine",Deferred
+2006-0363,,2006-02-15 00:00:00,"FESPERMAN, DONALD",FESPERMAN, DONALD,Correctional/Parole Officer,Sentenced,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,Unknown,Unknown
+2006-2530,,2006-12-04 00:00:00,"KING, ANGELA R.",KING, ANGELA R.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"2yrs def., $1000fine, 200hrs CS",Deferred
+2007-0157,,2007-01-18 00:00:00,"MCKNIGHT, SABRINA",MCKNIGHT, SABRINA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,"5yrs def., $5000fine, CC",Deferred
+2007-0295,,2007-02-05 00:00:00,"MITCHELL, GEORGIA A.",MITCHELL, GEORGIA A.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Middleton,NE,CID,Male,Transfer Facility,VI,Jones,"3yrs def., $500fine, $140 restitution, 25hrs CS",Deferred
+2007-0563,,2007-03-05 00:00:00,"FOSTER, TOMMY L.",FOSTER, TOMMY L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Plane / Santa Maria Baby Bonding,LJ,CID,Female,State Jail,III,Liberty,"5yrs def., $1000fine, 120hrs CS",Deferred
+2007-0682,,2007-03-15 00:00:00,"BOOKER, CAROLYN W.",BOOKER, CAROLYN W.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Lewis,GL,CID,Male,Prison,I,Tyler,"3yrs def., 500fine",Deferred
+2006-2290,,2006-11-03 00:00:00,"DAVIS, DARREN",DAVIS, DARREN,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Central,C,CID,Male,Prison,III,Fort Bend,"2yrs TDCJ probated for 6yrs, $1000fine, 120hrs CS, $50 CS",Deferred
+2007-0860,,2007-04-09 00:00:00,"VILLARREAL, AGAPITO",VILLARREAL, AGAPITO,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stevenson,SB,CID,Male,Prison,IV,DeWitt,"3yrs def., $1500fine",Deferred
+2007-1363,,2007-06-04 00:00:00,"PECK, ROLINDA",PECK, ROLINDA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,"3yrs def., $500fine ",Deferred
+2005-1348,,2005-06-14 00:00:00,"HENSON, SHERYL L.",HENSON, SHERYL L.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Neal,KN,CID,Male,Prison,V,Potter,"7yrs def., $1000fine",Deferred
+2007-1884,,2007-07-26 00:00:00,"HAGA, MILDRED",HAGA, MILDRED,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,"5yrs def., 200hrs CS, $1000fine",Deferred
+2007-2889,,2007-11-16 00:00:00,"KARLSSON, REGINA",KARLSSON, REGINA,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stringfellow,R2,CID,Male,Prison,III,Brazoria,"4yrs def., $500fine, 120hrs CS, $50 CS",Deferred
+2007-2986,,2007-11-30 00:00:00,"LEONARD, SHEMEKIA S.",LEONARD, SHEMEKIA S.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Luther,P2,CID,Male,Prison,VI,Grimes,"3yrs def., $1000fine, 200hrs CS",Deferred
+2008-0136,,2008-01-11 00:00:00,"MCNUTT, WENDY C.",MCNUTT, WENDY C.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,"2 years state jail TDCJ, suspecded for 5 years, $500 fine, $235 court costs, $350 attorneys fees, 240 hours community service",Deferred
+2008-0155,,2008-01-14 00:00:00,"GRENIER, ERICA R.",GRENIER, ERICA R.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hodge,HD,CID,Male,DDP,II,Cherokee,she got community supervision order but must have violated it so then she got 90 days in jail ,Probation
+2008-1406,,2008-05-14 00:00:00,"RIVERA, WILLIAM D.",RIVERA, WILLIAM D.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,"180 days jail, $245CC, $825 atty. Fees, 120hrs CS, $1000fine",Jail
+2008-1515,,2008-06-03 00:00:00,"ROBERTS, ROWNEIKE",ROBERTS, ROWNEIKE,Correctional/Parole Officer,Dismissed,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,dismissed,Dismissed
+2008-1515,,2008-06-03 00:00:00,"JACKSON, LATREACE",JACKSON, LATREACE,Correctional/Parole Officer,Sentenced,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,18 months def,Deferred
+2008-2127,,2008-07-23 00:00:00,"MARTIN, CYNTHIA BROOK",MARTIN, CYNTHIA BROOK,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 38.11T,Polunsky,TL,CID,Male,Prison,I,Polk,"5yrs def., $1500fine, 200hrs CS",Deferred
+2008-2692,,2008-09-04 00:00:00,"DAVIS, EDDIE J.",DAVIS, EDDIE J.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,"$1000fine, $5yrs def.",Deferred
+2008-3582,,2008-11-10 00:00:00,"CHIDESTER, KATHLEEN E",CHIDESTER, KATHLEEN E,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,5yrs def.,Deferred
+2008-3539,,2008-11-04 00:00:00,"CARTER, RICHARD W.",CARTER, RICHARD W.,Correctional/Parole Officer,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,1yr state jail,Jail
+2004-0882,,2004-04-15 00:00:00,"BEARDEN, TRACY",BEARDEN, TRACY,Contractor,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,5yrs def.,Deferred
+2004-2109,,2004-09-08 00:00:00,"HARPER, JENNIFER L",HARPER, JENNIFER L,Former Employee,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,3yrs def.,Deferred
+2005-2140,,2005-11-01 00:00:00,"GAMBLES, WILLIAM F.",GAMBLES, WILLIAM F.,Former Employee,Sentenced,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,"16 Months State Jail, I day credited",Jail
+2009.00054,2009-01-12 00:00:00,,"KLYCE, JOHN",KLYCE, JOHN,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,180 days jail,Jail
+2009.01089,2009-04-03 00:00:00,,"WINSTON, LISA",WINSTON, LISA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Powledge,B2,CID,Male,Prison,II,Anderson,"2yrs def., $500fine, $290CC, 200hrs CS, not allowed on TDCJ property",Deferred
+2009.01382,2009-04-30 00:00:00,,"DEFORE, RENEE",DEFORE, RENEE,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Prison,II,Anderson,"2yrs def., $209 CC",Deferred
+2009.01846,2009-06-12 00:00:00,,"BARGSLEY, HETHER",BARGSLEY, HETHER,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,5yrs def.,Deferred
+2009.02070,2009-06-30 00:00:00,,"ROBBINS, SENA",ROBBINS, SENA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Garza East,NI,CID,Male,Transfer Facility,IV,Bee,"2yrs TDCJ probated for 2, $750 fine",Deferred
+2009.02339,2009-07-27 00:00:00,,"NUTT, MELINDA",NUTT, MELINDA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,2.0,,Central,C,CID,Male,Prison,III,Fort Bend,"2yrs def., $500fine, 120hrs CS, 14 days jail",Deferred
+2009.02698,2009-08-25 00:00:00,,"ADAIR, DAWN",ADAIR, DAWN,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,2 years deferred,Deferred
+2009.03022,2009-09-21 00:00:00,,"LARSEN, THERESA",LARSEN, THERESA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Ferguson,FE,CID,Male,Prison,I,Madison,3yrs def.,Deferred
+2010.00609,2010-02-18 00:00:00,,"MONTANA, LINDSEY",MONTANA, LINDSEY,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,"4 years deferred (she was released from that 2 years early), surrender CO credentials forever, $200 fine",Deferred
+2010.00724,2010-02-26 00:00:00,,"WHITEFIELD, JOHNNY",WHITEFIELD, JOHNNY,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,3.0,,Daniel,DL,CID,Male,Prison,V,Scurry,"5 years deferred adjudication, $4,000 fine",Deferred
+2010.01118,2010-03-24 00:00:00,,"STANDFIELD, BRIAN",STANDFIELD, BRIAN,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,"5yrs def., $1500fine",Deferred
+2010.01367,2010-04-19 00:00:00,,"Wells, LaVonda",Wells, LaVonda,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Neal,KN,CID,Male,Prison,V,Potter,"$1500CC, Pled to lower charge official oppression",neither probation or jail
+2010.02645,2010-08-05 00:00:00,,"De Los Santos, Alicia",De Los Santos, Alicia,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Lindsey,LN,CCA,Male,Private State Jail,Private,Jack,"2yrs State Jail, $1500fine, 5yrs probation",Probation
+2010.02804,2010-08-23 00:00:00,,"ROBERTSON, FLOYD",ROBERTSON, FLOYD,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Prison,II,Anderson,"2yrs def., $290CC, $300fine",Deferred
+2010.03472,2010-10-12 00:00:00,,"Lee, Camillya",Lee, Camillya,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,North Texas ISF,XL,GEO,,ISF,,Tarrant,She pled to public lewdness. A lieutenant apparently saw it go down. She received 1 year TDCJ probated for 2 years community supervision,Deferred
+2010.03480,2010-10-11 00:00:00,,"IRIELLE, CASMIR",IRIELLE, CASMIR,Employee,Sentenced,PC22.021,Aggravated sexual assault,1.0,,Stringfellow,R2,CID,Male,Prison,III,Brazoria,"Reduced to Improper Sexual Assault w/ Person in Custody, 1yr State Jail",Jail
+2010.03480,2010-10-11 00:00:00,,"IRIELLE, CASMIR",IRIELLE, CASMIR,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Stringfellow,R2,CID,Male,Prison,III,Brazoria,"Reduced to Improper Sexual Assault w/ Person in Custody, 1yr State Jail",Jail
+2010.03826,2010-11-03 00:00:00,,"BOURLAND, CELESTE",BOURLAND, CELESTE,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,"PG; $1000fine, 3yrs def.",Deferred
+2010.03833,2010-11-16 00:00:00,,"WHEELER, DEANIE",WHEELER, DEANIE,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,"PG; 3yrs def., Community Supervision, $750CC",Deferred
+2010.03947,2010-11-18 00:00:00,,"SMITH, AUTUMN",SMITH, AUTUMN,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Moore,,,,,,,"3 years deferred, $200 fine, ",Deferred
+2010.04084,2010-12-09 00:00:00,,"Goodman, Amanda",Goodman, Amanda,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Estes,VS,MTC,Male,Private Prison,Private,Johnson,"community supervision, but she violated, she she got 6 months in jail",Probation
+2011.00111,2011-01-07 00:00:00,,"MENDOZA, JULIEANNE",MENDOZA, JULIEANNE,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Prison,II,Anderson,"2yrs def., $700fine, $354CC, 150hrs CS",Deferred
+2011.00341,2011-02-07 00:00:00,,"MCGILL, JOHNNYE",MCGILL, JOHNNYE,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Central,C,CID,Male,Prison,III,Fort Bend,"4def., CC and CS fees",Deferred
+2011.00345,2011-02-07 00:00:00,,"PIERCE, ASHLIE",PIERCE, ASHLIE,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Middleton,NE,CID,Male,Transfer Facility,VI,Jones,"2yrs def., $250fine, 50hrs CS",Deferred
+2011.00585,2011-02-25 00:00:00,,"LINE, TRACEY",LINE, TRACEY,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,"3 years deferred, $200 fine",Deferred
+2011.00586,2011-02-25 00:00:00,,"PAGE, RUSSELL",PAGE, RUSSELL,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,"2yrs def., $500fine",Deferred
+2011.02907,2011-07-21 00:00:00,,"GIBSON, VERNA",GIBSON, VERNA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,LeBlanc,BA,CID,Male,Pre-Release,III,Jefferson,"5yrs def., $500fine, 400hrs CS",Deferred
+2011.01214,2011-04-05 00:00:00,,"HIDALGO, DOMENIC",HIDALGO, DOMENIC,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,"PG; 4yrs def., $500fine",Deferred
+2011.03931,2011-10-05 00:00:00,,"HUFFMAN, TAMMY",HUFFMAN, TAMMY,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Ferguson,FE,CID,Male,Prison,I,Madison,"3yrs def., $1000fine, 200hrs CS",Deferred
+2011.04001,2011-10-10 00:00:00,,"AGOSTINETTI, JENNIFER",AGOSTINETTI, JENNIFER,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,"5yrs def., $1500fine",Deferred
+2011.04913,2011-12-12 00:00:00,,"WILLACKER, ALIKA",WILLACKER, ALIKA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,"3yrs def., $1500fine",Deferred
+2011.04916,2011-12-12 00:00:00,,"WILLACKER, ALIKA",WILLACKER, ALIKA,Employee,Dismissed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,Still Open,Dismissed
+2011.05140,2011-12-20 00:00:00,,"ENGLEDOW, DEANNA",ENGLEDOW, DEANNA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,2.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"2yrs def., $500fine, 200hrs CS, $583CC, $45fee",Deferred
+2012.00104,2012-01-09 00:00:00,,"WESTON, ROBERT",WESTON, ROBERT,Contractor / Volunteer,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,pg: 5 years deferred adjudication,Deferred
+2012.00296,2012-01-26 00:00:00,,"BROWN, CAROLINA",BROWN, CAROLINA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Holliday,NF,CID,Male,Transfer Facility,I,Walker,"PG; 5yrs def., Fine, 200hrs CS",Deferred
+2012.00369,2012-02-07 00:00:00,,"KOCHER, CYNTHIA",KOCHER, CYNTHIA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Robertson,RB,CID,Male,Prison,VI,Jones,"2yrs deferred adjudication, $250fine, 100hrs Community Service",Deferred
+2012.00913,2012-03-26 00:00:00,,"GUZMAN, ARMANDO",GUZMAN, ARMANDO,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,"2yrs def., $500fine, 100hrs CS",Deferred
+2012.01463,2012-04-30 00:00:00,,"ROGERS, DARRELL",ROGERS, DARRELL,Employee,Sentenced,PC22.011(a)(1),Sexual assault,1.0,,Young,GC,CID,Female,Medical,III,Galveston,Two years state jail probated for four years community service,Deferred
+2012.01463,2012-04-30 00:00:00,,"ROGERS, DARRELL",ROGERS, DARRELL,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,same as above,Deferred
+2012.03530,2012-09-17 00:00:00,,"JOHNSON, CAROLYN",JOHNSON, CAROLYN,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,"$500fine, $245CC",Probation
+2012.04250,2012-11-02 00:00:00,,"PURKEY, AMBER",PURKEY, AMBER,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clemens,CN,CID,Male,Prison,III,Brazoria,"3yrs def., 100hrs CS",Deferred
+2013.00051,2013-01-03 00:00:00,,"GREEN, RITA",GREEN, RITA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Hightower,HI,CID,Male,Prison,III,Liberty,"4yrs def., $1000fine, 100CS",Deferred
+2013.00141,2013-01-11 00:00:00,,"Woods, KAITLYN",Woods, KAITLYN,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,2.0,,Jordan,JN,CID,Male,Prison,V,Gray,"4yrs def., $500fine",Deferred
+2013.00259,2013-01-23 00:00:00,,"BROWN, CORNELIUS",BROWN, CORNELIUS,Employee,Dismissed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,Still Open,Dismissed
+2013.01157,2013-04-08 00:00:00,,"TATARIAN, DAVID",TATARIAN, DAVID,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,"5yrs def., 500hrs CS",Deferred
+2013.01161,2013-04-08 00:00:00,,"TATARIAN, DAVID",TATARIAN, DAVID,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,"5yrs def., 500hrs CS",Deferred
+2013.01871,2013-05-22 00:00:00,,"HENDRICKS, CHARLOTTE",HENDRICKS, CHARLOTTE,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Jordan,JN,CID,Male,Prison,V,Gray,Still Open,Still Open
+2013.04278,2013-10-31 00:00:00,,"WIGGINTON, JENNIE",WIGGINTON, JENNIE,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,2.0,,Robertson,RB,CID,Male,Prison,VI,Jones,Still Open,Still Open
+2014.00100,2014-01-07 00:00:00,,"GONZALES, JESSICA",GONZALES, JESSICA,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Neal,KN,CID,Male,Prison,V,Potter,"PG; 4yrs CS, $500fine",Probation
+2014.00483,2014-01-31 00:00:00,,"SLOTT, JAMI",SLOTT, JAMI,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,"5yrs deferred adjudication, no early release, $1500fine, Court Cost, 200hrs Community Service",Deferred
+2005-0487,,2005-02-28 00:00:00,,,,Contractor,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Hughes,AH,CID,Male,Prison,VI,Coryell,,
+2005-1468,,2005-07-06 00:00:00,,,,Contractor,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2000-0329,,2000-02-15 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2000-2018,,2000-10-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2000-2018,,2000-10-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2000-2018,,2000-10-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2001-0705,,2001-05-04 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,,FW,,,,,,,
+2001-1020,,2001-06-20 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2001-1037,,2001-06-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2001-1083,,2001-06-29 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,McConnell,ML,CID,Male,Prison,IV,Bee,,
+2001-1274,,2001-07-27 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2001-1274,,2001-07-27 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2001-1370,,2001-08-07 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2001-1391,,2001-08-10 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,,
+2001-1699,,2001-10-01 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,,
+2001-2095,,2001-11-30 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Neal,KN,CID,Male,Prison,V,Potter,,
+2002-0172,,2002-01-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,,
+2002-0665,,2002-03-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Neal,KN,CID,Male,Prison,V,Potter,,
+2002-0665,,2002-03-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Neal,KN,CID,Male,Prison,V,Potter,,
+2002-0886,,2002-04-23 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2002-1278,,2002-06-17 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2002-1285,,2002-06-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2002-1449,,2002-07-11 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,,
+2002-1627,,2002-08-02 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2002-1722,,2002-08-15 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Terrell,R3,CID,Male,Prison,III,Brazoria,,
+2002-1953,,2002-09-16 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Briscoe,DB,CID,Male,Prison,IV,Frio,,
+2003-0003,,2003-01-02 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Willacy County,WI,CCA,Male,Private State Jail,Private,Willacy,,
+2003-0028,,2003-01-06 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Murray,LM,CID,Female,Prison,VI,Coryell,,
+2003-0082,,2003-01-10 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2003-0863,,2003-05-05 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2003-0972,,2003-05-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Luther,P2,CID,Male,Prison,VI,Grimes,,
+2003-1002,,2003-05-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2003-1002,,2003-05-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2003-1352,,2003-07-11 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2003-1694,,2003-09-03 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,,PV,,,,,,,
+2003-2134,,2003-10-31 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2003-2183,,2003-11-07 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2003-2455,,2003-12-16 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2003-2477,,2003-12-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-0120,,2004-01-13 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Woodman,WM,CID,Female,State Jail,VI,Coryell,,
+2004-0233,,2004-01-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-0234,,2004-01-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-0259,,2004-02-02 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2004-0368,,2004-02-13 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Montford / West Texas Hospital,JM,CID,Male,Psychiatric,V,Lubbock,,
+2004-0443,,2004-02-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2004-0474,,2004-02-27 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-0474,,2004-02-27 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-0590,,2004-03-12 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 22.011,Sexual assault,1.0,,Luther,P2,CID,Male,Prison,VI,Grimes,,
+2004-0654,,2004-03-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Smith,SM,CID,Male,Prison,V,Dawson,,
+2004-0781,,2004-04-05 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-0781,,2004-04-05 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-0781,,2004-04-05 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-1671,,2004-07-15 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-2201,,2004-09-20 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2004-2293,,2004-10-01 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-2293,,2004-10-01 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-2497,,2004-10-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-2658,,2004-11-18 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-2736,,2004-12-01 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 22.011,Sexual assault,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,,
+2005-0731,,2005-03-25 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2005-0759,,2005-03-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0804,,2005-04-04 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0804,,2005-04-04 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0957,,2005-04-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0957,,2005-04-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0957,,2005-04-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-1058,,2005-04-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,,
+2005-1067,,2005-04-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Murray,LM,CID,Female,Prison,VI,Coryell,,
+2005-1263,,2005-05-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-1263,,2005-05-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-1449,,2005-07-05 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2005-1520,,2005-07-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,,
+2005-1520,,2005-07-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,,
+2005-1553,,2005-07-25 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Goree,GR,CID,Male,Prison,I,Walker,,
+2005-1678,,2005-08-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2005-1678,,2005-08-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2005-2126,,2005-10-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-2363,,2005-12-08 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Connally,CY,CID,Male,Prison,IV,Karnes,,
+2005-2363,,2005-12-08 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Connally,CY,CID,Male,Prison,IV,Karnes,,
+2006-0729,,2006-04-05 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2006-0997,,2006-05-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2006-0997,,2006-05-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2006-1055,,2006-05-09 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2006-1055,,2006-05-09 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2006-1055,,2006-05-09 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2006-2113,,2006-10-12 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,East Texas,XQ,MTC,Co-Gender,Private Multi-Use,Private,Rusk,,
+2007-0650,,2007-03-12 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,,
+2007-0650,,2007-03-12 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.011,Sexual assault,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,,
+2007-1569,,2007-06-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,,YR,,,,,,,
+2007-2386,,2007-09-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2008-1189,,2008-04-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Ramsey,R1,CID,Male,Prison,III,Brazoria,,
+2008-2523,,2008-08-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Connally,CY,CID,Male,Prison,IV,Karnes,,
+2008-2523,,2008-08-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.011,Sexual assault,1.0,,Connally,CY,CID,Male,Prison,IV,Karnes,,
+2002-1774,,2002-08-22 00:00:00,,,,Former Employee,No Billed,PC 22.011,Sexual assault,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2001-1485,,2001-08-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Byrd,DU,CID,Male,Prison,I,Walker,,
+2001-1925,,2001-11-02 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Wynne,WY,CID,Male,Prison,I,Walker,,
+2001-1925,,2001-11-02 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Wynne,WY,CID,Male,Prison,I,Walker,,
+2004-2684,,2004-11-24 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.021,Aggravated sexual assault,1.0,,Ellis,E1,CID,Male,Prison,I,Walker,,
+2005-0133,,2005-01-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2005-0516,,2005-03-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0516,,2005-03-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0516,,2005-03-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-0893,,2005-04-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2005-0893,,2005-04-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2006-1803,,2006-09-05 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 22.021,Aggravated sexual assault,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2002-1767,,2002-08-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 22.021,Aggravated sexual assault,1.0,,Luther,P2,CID,Male,Prison,VI,Grimes,,
+2003-0374,,2003-02-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Scott,RV,CID,Male,Prison,III,Brazoria,,
+2003-0417,,2003-02-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,YP,,,,,,,
+2003-0418,,2003-03-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,ZM,,,,,,,
+2003-0675,,2003-04-07 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2003-0820,,2003-04-28 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2003-1359,,2003-07-14 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Murray,LM,CID,Female,Prison,VI,Coryell,,
+2003-1889,,2003-09-29 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2003-2088,,2003-10-23 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stringfellow,R2,CID,Male,Prison,III,Brazoria,,
+2003-2110,,2003-10-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2003-2116,,2003-10-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2003-2135,,2003-10-31 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2003-2222,,2003-11-14 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,,
+2003-2242,,2003-11-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2003-2243,,2003-11-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2003-2244,,2003-11-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2003-2245,,2003-11-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2003-2360,,2003-12-05 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2003-2469,,2003-12-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Johnston,JT,CID,Male,SAFPF,II,Wood,,
+2004-0135,,2004-01-15 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2004-0168,,2004-01-20 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hospital Galveston,HG,CID,Co-Gender,Medical,III,Galveston,,
+2004-0442,,2004-02-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Willacy County,WI,CCA,Male,Private State Jail,Private,Willacy,,
+2004-0486,,2004-03-02 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2004-0496,,2004-03-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2004-0893,,2004-04-15 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Allred,JA,CID,Male,Prison,V,Wichita,,
+2004-0946,,2004-04-21 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2004-1094,,2004-05-07 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2004-1249,,2004-05-25 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hughes,AH,CID,Male,Prison,VI,Coryell,,
+2004-1365,,2004-06-09 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2004-1490,,2004-06-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Estes,VS,MTC,Male,Private Prison,Private,Johnson,,
+2004-1518,,2004-06-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2004-1519,,2004-06-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2004-1521,,2004-06-25 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Woodman,WM,CID,Female,State Jail,VI,Coryell,,
+2004-1634,,2004-07-08 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2004-1715,,2004-07-22 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hospital Galveston,HG,CID,Co-Gender,Medical,III,Galveston,,
+2004-1856,,2004-08-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jordan,JN,CID,Male,Prison,V,Gray,,
+2004-1882,,2004-08-10 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Murray,LM,CID,Female,Prison,VI,Coryell,,
+2004-1973,,2004-08-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,YR,,,,,,,
+2004-2043,,2004-08-31 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2004-2102,,2004-09-07 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2004-2120,,2004-09-09 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dalhart,DH,CID,Male,Prison,V,Hartley,,
+2004-2129,,2004-09-10 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2004-2149,,2004-09-13 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2004-2189,,2004-09-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,North Texas ISF,XL,GEO,,ISF,,Tarrant,,
+2004-2210,,2004-09-20 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2004-2370,,2004-10-13 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Plane / Santa Maria Baby Bonding,LJ,CID,Female,State Jail,III,Liberty,,
+2004-2556,,2004-11-04 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2004-0549,,2004-03-09 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2004-2737,,2004-12-01 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,,
+2005-0194,,2005-01-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,McConnell,ML,CID,Male,Prison,IV,Bee,,
+2005-0242,,2005-01-27 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Ferguson,FE,CID,Male,Prison,I,Madison,,
+2005-0260,,2005-01-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Ellis,E1,CID,Male,Prison,I,Walker,,
+2005-0274,,2005-02-01 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Smith,SM,CID,Male,Prison,V,Dawson,,
+2005-0409,,2005-02-17 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2005-0584,,2005-03-10 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dominguez,BX,CID,Male,State Jail,IV,Bexar,,
+2005-0595,,2005-03-11 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Montford / West Texas Hospital,JM,CID,Male,Psychiatric,V,Lubbock,,
+2005-0599,,2005-03-11 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Skyview,SV,CID,Co-Gender,Psychiatric,II,Cherokee,,
+2005-0687,,2005-03-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Lynaugh,LH,CID,Male,Prison,IV,Pecos,,
+2005-0945,,2005-04-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2005-0954,,2005-04-19 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Daniel,DL,CID,Male,Prison,V,Scurry,,
+2005-0964,,2005-04-20 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2005-0721,,2005-03-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2005-0983,,2005-04-21 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2005-1119,,2005-05-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,,
+2005-1164,,2005-05-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,,
+2005-1168,,2005-05-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,LeBlanc,BA,CID,Male,Pre-Release,III,Jefferson,,
+2005-1241,,2005-05-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,,
+2005-1242,,2005-05-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bradshaw,BH,CCA,Male,Private State Jail,Private,Rusk,,
+2004-0601,,2004-03-15 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jordan,JN,CID,Male,Prison,V,Gray,,
+2005-1492,,2005-07-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2005-1533,,2005-07-19 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2005-1536,,2005-07-20 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2005-1569,,2005-07-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2005-1691,,2005-08-16 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bartlett,BL,CCA,Male,Private State Jail,Private,Williamson,,
+2005-1692,,2005-08-16 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jordan,JN,CID,Male,Prison,V,Gray,,
+2005-1780,,2005-08-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Goree,GR,CID,Male,Prison,I,Walker,,
+2005-1808,,2005-09-06 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2005-1982,,2005-10-05 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2005-1989,,2005-10-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2005-2083,,2005-10-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2005-2092,,2005-10-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Smith,SM,CID,Male,Prison,V,Dawson,,
+2005-2113,,2005-10-27 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mineral Wells,MW,,,,,,,
+2005-2134,,2005-10-31 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,LI,,,,,,,
+2005-2160,,2005-11-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Bowie Co.,XC,,,,,Bowie,,
+2005-2265,,2005-11-23 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,,
+2005-2291,,2005-11-29 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2004-2852,,2004-12-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Lynaugh,LH,CID,Male,Prison,IV,Pecos,,
+2005-2459,,2005-12-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2005-2466,,2005-12-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Robertson,RB,CID,Male,Prison,VI,Jones,,
+2005-2469,,2005-12-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hilltop,HT,CID,Female,Prison,VI,Coryell,,
+2004-1888,,2004-08-12 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jester IV,J4,CID,Male,Psychiatric,III,Fort Bend,,
+2005-2450,,2005-12-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2006-0086,,2006-01-09 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mineral Wells,MW,,,,,,,
+2006-0174,,2006-01-23 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,YT,,,,,,,
+2006-0228,,2006-01-30 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2006-0272,,2006-02-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Halbert,BB,CID,Female,SAFPF,VI,Burnet,,
+2006-0292,,2006-02-08 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Central,C,CID,Male,Prison,III,Fort Bend,,
+2006-0656,,2006-03-27 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Huntsville,HV,CID,Male,Prison,I,Walker,,
+2006-1175,,2006-05-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Lockhart,LC,GEO,Female,Private Prison,Private,Caldwell,,
+2006-1263,,2006-06-12 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2006-1407,,2006-07-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Lindsey,LN,CCA,Male,Private State Jail,Private,Jack,,
+2006-1682,,2006-08-18 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Private State jail,Private,Williamson,,
+2006-1754,,2006-08-28 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Plane / Santa Maria Baby Bonding,LJ,CID,Female,State Jail,III,Liberty,,
+2006-1966,,2006-09-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Eastham,EA,CID,Male,Prison,I,Houston,,
+2006-1966,,2006-09-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Eastham,EA,CID,Male,Prison,I,Houston,,
+2006-1966,,2006-09-26 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,,Eastham,EA,CID,Male,Prison,I,Houston,,
+2006-2151,,2006-10-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2006-2435,,2006-11-17 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2006-2459,,2006-11-21 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2006-2477,,2006-11-27 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 38.11A,Beto,B,CID,Male,Private State jail,Private,Williamson,,
+2006-2554,,2006-12-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Neal,KN,CID,Male,Prison,V,Potter,,
+2007-0049,,2007-01-05 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,,
+2007-0394,,2007-02-14 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2007-0683,,2007-03-15 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,,
+2007-0722,,2007-03-20 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,North Texas ISF,XL,GEO,,ISF,,Tarrant,,
+2007-1174,,2007-05-11 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2007-1231,,2007-05-18 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 36.02M,Mineral Wells,MW,,,,,,,
+2007-0315,,2007-02-07 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,YP,,,,,,,
+2007-2087,,2007-08-14 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hutchins,HJ,CID,Male,State Jail,II,Dallas,,
+2007-2232,,2007-09-04 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,YR,,,,,,,
+2007-2316,,2007-09-13 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,North Texas ISF,XL,GEO,,ISF,,Tarrant,,
+2007-2804,,2007-11-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Pack,P1,CID,Male,Prison,VI,Grimes,,
+2007-2892,,2007-11-16 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Jordan,JN,CID,Male,Prison,V,Gray,,
+2007-2987,,2007-11-30 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Lynaugh,LH,CID,Male,Prison,IV,Pecos,,
+2008-0081,,2008-01-08 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,PC 36.02M,Central,C,CID,Male,Prison,III,Fort Bend,,
+2006-1591,,2006-08-07 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04F,Improper Sexual Activity with Person in Custody,1.0,CCP 49.18,Estelle,E2,CID,Male,Prison,I,Walker,,
+2008-0457,,2008-02-11 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Robertson,RB,CID,Male,Prison,VI,Jones,,
+2008-0931,,2008-03-24 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2008-1310,,2008-05-06 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Terrell,R3,CID,Male,Prison,III,Brazoria,,
+2008-1805,,2008-07-03 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hughes,AH,CID,Male,Prison,VI,Coryell,,
+2008-1825,,2008-07-07 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2006-1123,,2006-05-22 00:00:00,,,,Correctional/Parole Officer,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Mountain View,MV,CID,Female,Prison,VI,Coryell,,
+2008-2644,,2008-08-29 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2008-3173,,2008-10-22 00:00:00,,,,Correctional/Parole Officer,No Billed,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2001-1985,,2001-11-12 00:00:00,,,,Former Employee,Prosecution Declined,PC 39.04,Improper Sexual Activity with Person in Custody,1.0,,Estes,VS,MTC,Male,Private Prison,Private,Johnson,,
+2002-1609,,2002-07-31 00:00:00,,,,Correctional/Parole Officer,Dismissed,PC 39.04,Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2003-0173,,2003-01-23 00:00:00,,,,Former Employee,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Telford,TO,CID,Male,Prison,II,Bowie,,
+2006-0374,,2006-02-16 00:00:00,,,,Former Employee,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Estes,VS,MTC,Male,Private Prison,Private,Johnson,,
+2007-0340,,2007-02-09 00:00:00,,,,Former Employee,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,,YP,,,,,,,
+2004-1269,,2004-05-27 00:00:00,,,,Former Employee,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Hughes,AH,CID,Male,Prison,VI,Coryell,,
+2004-2850,,2004-12-17 00:00:00,,,,Former Employee,Prosecution Declined,PC 39.04S,Improper Sexual Activity with Person in Custody,1.0,,Dalhart,DH,CID,Male,Prison,V,Hartley,,
+2009.00260,2009-02-03 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Woodman,WM,CID,Female,State Jail,VI,Coryell,,
+2009.00261,2009-02-05 00:00:00,,,,,Contractor / Volunteer,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Kyle,KY,MTC,Male,Private Prison,Private,Hays,,
+2009.00467,2009-02-23 00:00:00,,,,,Employee,No Billed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2009.01379,2009-04-30 00:00:00,,,,,Contractor / Volunteer,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Avalon,,Avalon,,Halfway House,Private,,,
+2009.01475,2009-05-07 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Beto,B,CID,Male,Prison,II,Anderson,,
+2009.02376,2009-07-30 00:00:00,,,,,Employee,Prosecution Declined,PC22.011(a)(1),Sexual assault,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,,
+2009.02661,2009-08-24 00:00:00,,,,,Employee,No Billed,PC22.011(a)(1),Sexual assault,1.0,,Waco Parole,,CID,,Parole office,IV,McLennan,,
+2009.03023,2009-09-21 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Austin Parole,,CID,,Parole office,IV,Travis,,
+2009.03842,2009-11-25 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2010.01364,2010-04-19 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Ferguson,FE,CID,Male,Prison,I,Madison,,
+2010.02357,2010-07-09 00:00:00,,,,,Employee,No Billed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Coffield,CO,CID,Male,Prison,II,Anderson,,
+2010.02467,2010-07-16 00:00:00,,,,,Contractor / Volunteer,No Billed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Estelle,E2,CID,Male,Prison,I,Walker,,
+2010.02561,2010-07-22 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Smith,SM,CID,Male,Prison,V,Dawson,,
+2010.03542,2010-10-18 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Michael,MI,CID,Male,Prison,II,Anderson,,
+2011.00014,2011-01-03 00:00:00,,,,,Employee,No Billed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Lychner,AJ,CID,Male,State Jail,III,Harris,,
+2011.00110,2011-01-05 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2011.00749,2011-03-09 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clemens,CN,CID,Male,Prison,III,Brazoria,,
+2011.01714,2011-05-05 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Stringfellow,R2,CID,Male,Prison,III,Brazoria,,
+2011.02933,2011-07-22 00:00:00,,,,,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Dallas 2 Parole,,CID,,Parole office,II,Dallas,,
+2011.02934,2011-07-22 00:00:00,,,,,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Dallas 2 Parole,,CID,,Parole office,II,Dallas,,
+2011.03090,2011-08-03 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Murray,LM,CID,Female,Prison,VI,Coryell,,
+2011.03465,2011-08-30 00:00:00,,,,,Employee,Indicted (True Billed),PC22.011A,Sexual assault,1.0,,Dallas 2 Parole,,CID,,Parole office,II,Dallas,,
+2011.04522,2011-11-02 00:00:00,,,,,Employee,Dismissed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Clements,BC,CID,Male,Prison,V,Potter,,
+2011.04914,2011-12-12 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2011.04915,2011-12-12 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2011.05050,2011-12-14 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2012.00155,2012-01-11 00:00:00,,,,,Contractor / Volunteer,Dismissed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Dawson,JD,CCA,,State Jail,Private,Dallas,,
+2012.00316,2012-01-30 00:00:00,,,,,Contractor / Volunteer,No Billed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Bartlett,BL,CCA,Male,Private State Jail,Private,Williamson,,
+2012.01557,2012-05-07 00:00:00,,,,,Contractor / Volunteer,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Young,GC,CID,Female,Medical,III,Galveston,,
+2012.01612,2012-05-10 00:00:00,,,,,Contractor / Volunteer,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Kyle,KY,MTC,Male,Private Prison,Private,Hays,,
+2012.05058,2012-12-18 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Daniel,DL,CID,Male,Prison,V,Scurry,,
+2013.01087,2013-03-29 00:00:00,,,,,Employee,Dismissed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2013.01159,2013-04-08 00:00:00,,,,,Employee,Dismissed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Crain,GV,CID,Female,Prison,VI,Coryell,,
+2013.04799,2013-12-05 00:00:00,,"ROSAS, GERIC",ROSAS, GERIC,Employee,Sentenced,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Hobby,HB,CID,Female,Prison,VI,Falls,"5yrs deferred adjudication, no early release, $1500fine, Court Cost, 200hrs Community Service ",Deferred
+2014.00159,2014-01-09 00:00:00,,"WOODS, JENNIFER",WOODS, JENNIFER,Employee,Prosecution Accepted,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Polunsky,TL,CID,Male,Prison,I,Polk,,
+2014.00447,2014-01-29 00:00:00,,,,,Employee,Prosecution Declined,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Goodman,GG,CID,Male,Transfer Facility,I,Jasper,,
+2014.01256,2014-03-19 00:00:00,,"THACKERSON, KATEY",THACKERSON, KATEY,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Robertson,RB,CID,Male,Prison,VI,Jones,,
+2014.01984,2014-05-02 00:00:00,,"KENNEDY, HIDIYAH",KENNEDY, HIDIYAH,Employee,Prosecution Accepted,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Briscoe,DB,CID,Male,Prison,IV,Frio,,
+2014.02187,2014-05-15 00:00:00,,"CRAWFORD, TERRA",CRAWFORD, TERRA,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2014.02460,2014-06-02 00:00:00,,,,,Employee,Indicted (True Billed),PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Stiles,ST,CID,Male,Prison,III,Jefferson,,
+2012.04603,2012-11-28 00:00:00,,,,,Contractor / Volunteer,No Billed,PC39.04(a)(2),Improper Sexual Activity with Person in Custody,1.0,,Lockhart,,,,,,Caldwell,,
